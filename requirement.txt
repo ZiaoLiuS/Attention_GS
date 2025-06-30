@@ -1,0 +1,5 @@
+plyfile==0.8.1
+tqdm
+GPUtil
+lpips
+opencv-python

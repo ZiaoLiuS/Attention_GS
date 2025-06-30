@@ -1,0 +1,7 @@
+# ninja log v5
+17	14460	1740450380000000000	/mnt/xyz_data_tj/user/shiyifeng003/3d/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	9f6d1f1114941d8a
+12	14761	1740450381000000000	/mnt/xyz_data_tj/user/shiyifeng003/3d/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	12f02cb49c05699c
+17	45338	1740450411000000000	/mnt/xyz_data_tj/user/shiyifeng003/3d/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	d73fb59f646026a2
+14	14892	1743508110000000000	/mnt/xyz_data_tj/user/liuziao001/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	95afa6e228b9653d
+13	16370	1743508111000000000	/mnt/xyz_data_tj/user/liuziao001/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	713598fb8bb766f0
+15	46720	1743508142000000000	/mnt/xyz_data_tj/user/liuziao001/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	41d19d0bf9fe3007

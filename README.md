@@ -9,12 +9,12 @@ Abstract: 3D Gaussian Splatting (3DGS) is a powerful alternative to Neural Radia
 The repository contains submodules, thus please check it out with 
 ```shell
 # SSH
-git clone git@github.com:graphdeco-inria/gaussian-splatting.git --recursive
+git clone git@github.com:ZiaoLiuS/Attention_GS.git --recursive
 ```
 or
 ```shell
 # HTTPS
-git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
+git clone https://github.com/ZiaoLiuS/Attention_GS --recursive
 ```
 
 
